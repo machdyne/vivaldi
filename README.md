@@ -2,6 +2,8 @@
 
 Vivaldi is a host board that when paired with a [Sechzig](https://github.com/machdyne/sechzig) compute module can function as a personal server, network gateway or firewall.
 
+![Vivaldi](https://github.com/machdyne/vivaldi/blob/4c827327fc69c10ec3e9044bc0cccf6bd3b227a4/vivaldi.png)
+
 This repo contains schematics, PCB layouts, pinouts and documentation.
 
 Find more information on the [Vivaldi product page](https://machdyne.com/product/vivaldi-motherboard/).
